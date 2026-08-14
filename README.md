@@ -1,1 +1,1 @@
-# -egern-icons
+# egern-icons
