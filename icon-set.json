@@ -1,10 +1,14 @@
 {
-  "name": "Rocket Icons",
+  "name": "My Icons",
   "description": "Custom icon set for Egern",
   "icons": [
     {
       "name": "Rocket",
       "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/rocket.png"
+    },
+    {
+      "name": "吹雪云",
+      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/chuixue.png"
     }
   ]
 }
