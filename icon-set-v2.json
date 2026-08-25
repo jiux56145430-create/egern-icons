@@ -20,7 +20,11 @@
     },
     {
       "name": "MIO",
-      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/blue-icon.png"
+      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/mio-white-round.png"
+    },
+    {
+      "name": "EZ Theme",
+      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/ez-theme.png"
     }
   ]
 }
