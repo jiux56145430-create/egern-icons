@@ -1,0 +1,54 @@
+{
+  "name": "My Icons",
+  "description": "Custom icon set for Egern",
+  "icons": [
+    {
+      "name": "Rocket",
+      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/rocket.png"
+    },
+    {
+      "name": "吹雪云",
+      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/IMG_8281.png"
+    },
+    {
+      "name": "肯的机",
+      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/IMG_8283.png"
+    },
+    {
+      "name": "Lumina",
+      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/lumina-rgb.png"
+    },
+    {
+      "name": "MIO",
+      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/mio-white-round.png"
+    },
+    {
+      "name": "EZ Theme",
+      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/ez-theme.png"
+    },
+    {
+      "name": "EasyCloud",
+      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/easycloud-v3.png"
+    },
+    {
+      "name": "DICK VPN",
+      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/dick-vpn-round.png"
+    },
+    {
+      "name": "哆啦A梦",
+      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/doraemon.png"
+    },
+    {
+      "name": "MESL",
+      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/mesl.png"
+    },
+    {
+      "name": "小鸡",
+      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/chick.png"
+    },
+    {
+      "name": "星尘云",
+      "url": "https://raw.githubusercontent.com/jiux56145430-create/egern-icons/main/stardustcloud-blue.png"
+    }
+  ]
+}
